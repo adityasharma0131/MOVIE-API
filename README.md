@@ -3,10 +3,10 @@
 Movie Land is a simple React web application that allows users to search for movies using the OMDB API and displays the search results as movie cards.
 
 ## Images
-![img 1](./image1.png)
-![img 2](./image2.png)
-![img 3](./image3.png)
-![img 4](./image4.png)
+![img 1](./src/assets/image1.png)
+![img 2](./src/assets/image2.png)
+![img 3](./src/assets/image3.png)
+![img 4](./src/assets/image4.png)
 
 
 
